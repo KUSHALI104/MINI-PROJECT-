@@ -105,9 +105,9 @@ python split.py
 python train.py
 ```
 4️⃣ Evaluate the Model
-
+```
 python predict.py
-
+```
 5️⃣ Run Web Application
 
 ```
@@ -173,17 +173,17 @@ It reduces manual effort, supports farmers and veterinarians in decision-making,
 The system is scalable and can be extended to additional breeds or deployed on web and mobile platforms.
 
 # Articles published / References
-[8] K. He, X. Zhang, S. Ren, and J. Sun, “Deep Residual Learning for Image Recognition,” IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2016, pp. 770–778. (ResNet fundamentals for breed recognition)
+[1] K. He, X. Zhang, S. Ren, and J. Sun, “Deep Residual Learning for Image Recognition,” IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2016, pp. 770–778. (ResNet fundamentals for breed recognition)
 
-[9] S. Ren, K. He, R. Girshick, and J. Sun, “Faster R‑CNN: Towards Real‑Time Object Detection with Region Proposal Networks,” IEEE Transactions on Pattern Analysis and Machine Intelligence, 2017. (Object detection basis).
+[2] S. Ren, K. He, R. Girshick, and J. Sun, “Faster R‑CNN: Towards Real‑Time Object Detection with Region Proposal Networks,” IEEE Transactions on Pattern Analysis and Machine Intelligence, 2017. (Object detection basis).
 
-[10] J. Redmon, S. Divvala, R. Girshick, and A. Farhadi, “You Only Look Once: Unified Real‑Time Object Detection,” Proc. IEEE CVPR, 2016, pp. 779–788. (Original YOLO paper).
+[3] J. Redmon, S. Divvala, R. Girshick, and A. Farhadi, “You Only Look Once: Unified Real‑Time Object Detection,” Proc. IEEE CVPR, 2016, pp. 779–788. (Original YOLO paper).
 
-[11] O. Bezsonov et al., “Breed Recognition and Estimation of Live Weight of Cattle Based on Methods of Machine Learning and Computer Vision,” Eastern‑European Journal of Enterprise Technologies, 2021.
+[4] O. Bezsonov et al., “Breed Recognition and Estimation of Live Weight of Cattle Based on Methods of Machine Learning and Computer Vision,” Eastern‑European Journal of Enterprise Technologies, 2021.
 
-[12] A. Vijayalakshmi, P. Shanmugavadivu, S. Vijayalakshmi, S. Padarha, and R. Sivaranjani, “Ensemble Learning Algorithm for Cattle Breed Identification using Computer Vision Techniques,” in Proc. 1st Int. Conf. on AI, Communication, IoT, Data Engineering and Security (IACIDS), 2024. 
+[5] A. Vijayalakshmi, P. Shanmugavadivu, S. Vijayalakshmi, S. Padarha, and R. Sivaranjani, “Ensemble Learning Algorithm for Cattle Breed Identification using Computer Vision Techniques,” in Proc. 1st Int. Conf. on AI, Communication, IoT, Data Engineering and Security (IACIDS), 2024. 
 
-[13] U. Ali and W. Muhammad, “Cow Face Detection for Precision Livestock Management using YOLOv8,” International Journal of Innovations in Science & Technology, 2025. 
+[6] U. Ali and W. Muhammad, “Cow Face Detection for Precision Livestock Management using YOLOv8,” International Journal of Innovations in Science & Technology, 2025. 
 
 
 
